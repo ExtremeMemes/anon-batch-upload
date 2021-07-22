@@ -12,3 +12,6 @@ Press Enter and Copy Link.
 
 # VirusTotal Link
 https://www.virustotal.com/gui/file/6ab6a028119a2bbde29874f0f7140d22f312a690a87c4050ae57c34833e09a25/detection
+
+# SHA-256 HASH
+6AB6A028119A2BBDE29874F0F7140D22F312A690A87C4050AE57C34833E09A25
